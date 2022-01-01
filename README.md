@@ -22,10 +22,10 @@ Some things I enjoy working on/with:
 
 ## Tools
 
-<table width=75%>
+<table width=90%>
   <tr>
     <td>Languages</td>
-    <td>ML/DL</td>
+    <td>ML / DL</td>
     <td>Pipelines</td>
     <td>Databases</td>
   </tr>
@@ -47,42 +47,36 @@ Some things I enjoy working on/with:
 
 ## Projects
 
-<table width="98%">
-  <tr>
-  <td><img src="https://github-readme-stats.vercel.app/api?username=sho-87&show_icons=true&locale=en&hide=prs&count_private=true&theme=gruvbox&hide_border=True&include_all_commits=True" alt="sho-87" /></td>
-
-  <td><img src="https://github-profile-trophy.vercel.app/?username=sho-87&rank=SECRET,SSS,SS,S,AAA,AA,A&theme=gruvbox&margin-w=5&margin-h=5&no-frame=true&row=2&column=3" alt="sho-87" height="168"/></td>
-  </tr>
-</table>
+<img src="https://github-readme-stats.vercel.app/api?username=sho-87&show_icons=true&locale=en&hide=prs&count_private=true&theme=default&hide_border=True&include_all_commits=True" alt="sho-87" /> <img src="https://github-profile-trophy.vercel.app/?username=sho-87&rank=SECRET,SSS,SS,S,AAA,AA,A&theme=flat&margin-w=5&margin-h=4&no-frame=true&row=2&column=3" alt="sho-87" height="170"/>
 
 ### Machine learning / deep learning
 
 <a href="https://github.com/sho-87/webcam-eye-tracker">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sho-87&repo=webcam-eye-tracker&theme=gruvbox&hide_border=True" width="49%"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sho-87&repo=webcam-eye-tracker&theme=swift&hide_border=True" width="49%"/>
 </a> <a href="https://github.com/sho-87/python-machine-learning">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sho-87&repo=python-machine-learning&theme=gruvbox&hide_border=True" width="49%"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sho-87&repo=python-machine-learning&theme=swift&hide_border=True" width="49%"/>
 </a>
 
 ### Applications and tools
 
 <a href="https://github.com/sho-87/cognitive-battery">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sho-87&repo=cognitive-battery&theme=gruvbox&hide_border=True" width="49%"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sho-87&repo=cognitive-battery&theme=swift&hide_border=True" width="49%"/>
 </a> <a href="https://github.com/sho-87/rok-talents">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sho-87&repo=rok-talents&theme=gruvbox&hide_border=True" width="49%"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sho-87&repo=rok-talents&theme=swift&hide_border=True" width="49%"/>
 </a>
 
 ### Sensor recording and analysis
 
 <a href="https://github.com/sho-87/sensormotion">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sho-87&repo=sensormotion&theme=gruvbox&hide_border=True" width="49%"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sho-87&repo=sensormotion&theme=swift&hide_border=True" width="49%"/>
 </a> <a href="https://github.com/sho-87/sensor-record">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sho-87&repo=sensor-record&theme=gruvbox&hide_border=True" width="49%"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sho-87&repo=sensor-record&theme=swift&hide_border=True" width="49%"/>
 </a>
 
 ### Datasets
 
 <a href="https://github.com/sho-87/rok-data">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sho-87&repo=rok-data&theme=gruvbox&hide_border=True" width="49%"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sho-87&repo=rok-data&theme=swift&hide_border=True" width="49%"/>
 </a> <a href="https://github.com/sho-87/overwatch-ranked-data">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sho-87&repo=overwatch-ranked-data&theme=gruvbox&hide_border=True" width="49%"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sho-87&repo=overwatch-ranked-data&theme=swift&hide_border=True" width="49%"/>
 </a>
