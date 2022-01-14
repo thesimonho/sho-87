@@ -16,7 +16,7 @@ Some things I enjoy working on/with:
 
 * 📫 Email: simonho.ubc@gmail.com
 * 📝 Blog: [https://www.simonho.ca/blog](https://www.simonho.ca/blog/)
-* 📄 Resume: [https://www.simonho.ca/cv](https://www.simonho.ca/cv/)
+* 📄 Resume: [https://www.simonho.ca/resume](https://www.simonho.ca/resume/)
 * 🔷 LinkedIn: [https://linkedin.com/in/simon-ho](https://linkedin.com/in/simon-ho)
 * 🔶 Stack Overflow: [https://stackoverflow.com/users/2605604](https://stackoverflow.com/users/2605604)
 
