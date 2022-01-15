@@ -20,7 +20,7 @@ Some things I enjoy working on/with:
 * 🔷 LinkedIn: [https://linkedin.com/in/simon-ho](https://linkedin.com/in/simon-ho)
 * 🔶 Stack Overflow: [https://stackoverflow.com/users/2605604](https://stackoverflow.com/users/2605604)
 
-# Recent Blog Posts 
+## Recent Blog Posts 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
