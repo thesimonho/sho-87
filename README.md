@@ -20,7 +20,7 @@ Some things I enjoy working on/with:
 * 🔷 LinkedIn: [https://linkedin.com/in/simon-ho](https://linkedin.com/in/simon-ho)
 * 🔶 Stack Overflow: [https://stackoverflow.com/users/2605604](https://stackoverflow.com/users/2605604)
 
-# Recent Blog Posts 
+## Recent Blog Posts 
 <!-- BLOG-POST-LIST:START -->
 - [Webcam Eye Tracker: Eye Tracking Video Games](https://www.simonho.ca/machine-learning/webcam-eye-tracker-video-games/)
 - [Webcam Eye Tracker: Deep Learning with PyTorch](https://www.simonho.ca/machine-learning/webcam-eye-tracker-deep-learning-with-pytorch/)
