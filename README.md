@@ -1,6 +1,9 @@
 <img src="images/training_plots.png" width="49%" align="center"/><img src="images/scatter.png" width="49%" align="center"/>
 
 <h1 align="center">Hi there, I'm Simon <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+<p align="center">
+  <a href="https://www.linkedin.com/in/simon-ho/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+</p>
 
 I'm a data scientist and researcher. I mainly code in Python, but turn to R and SPSS for statistics. There's also some JavaScript, Java, and C# here and there.
 
@@ -12,7 +15,7 @@ Some things I enjoy working on/with:
 * Machine learning
 * Docker
 
-## Links
+## 🔗 Links
 
 * 📫 Email: simonho.ubc@gmail.com
 * 📝 Blog: [https://www.simonho.ca/blog](https://www.simonho.ca/blog/)
@@ -20,7 +23,7 @@ Some things I enjoy working on/with:
 * 🔷 LinkedIn: [https://linkedin.com/in/simon-ho](https://linkedin.com/in/simon-ho)
 * 🔶 Stack Overflow: [https://stackoverflow.com/users/2605604](https://stackoverflow.com/users/2605604)
 
-## Recent Blog Posts 
+## ✍️ Recent Blog Posts 
 <!-- BLOG-POST-LIST:START -->
 - [Webcam Eye Tracker: Eye Tracking Video Games](https://www.simonho.ca/machine-learning/webcam-eye-tracker-video-games/)
 - [Webcam Eye Tracker: Deep Learning with PyTorch](https://www.simonho.ca/machine-learning/webcam-eye-tracker-deep-learning-with-pytorch/)
@@ -29,7 +32,7 @@ Some things I enjoy working on/with:
 - [Webcam Eye Tracker: An End-to-end Deep Learning Project](https://www.simonho.ca/machine-learning/webcam-eye-tracker-overview/)
 <!-- BLOG-POST-LIST:END -->
 
-## Tools
+## 🛠 Languages and Tools
 
 <table width=90%>
   <tr>
@@ -54,7 +57,7 @@ Some things I enjoy working on/with:
   </tr>
 </table>
 
-## Projects
+## 🔥 Projects
 
 <img src="https://github-readme-stats.vercel.app/api?username=sho-87&show_icons=true&locale=en&hide=prs&count_private=true&theme=default&hide_border=True&include_all_commits=True" alt="sho-87" /> <img src="https://github-profile-trophy.vercel.app/?username=sho-87&rank=SECRET,SSS,SS,S,AAA,AA,A&theme=flat&margin-w=5&margin-h=4&no-frame=true&row=2&column=3" alt="sho-87" height="170"/>
 
