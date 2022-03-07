@@ -56,39 +56,3 @@ Some things I enjoy working on/with:
     </td>
   </tr>
 </table>
-
-## 🔥 Projects
-
-<img src="https://github-readme-stats.vercel.app/api?username=sho-87&show_icons=true&locale=en&hide=prs&count_private=true&theme=default&hide_border=True&include_all_commits=True" alt="sho-87" /> <img src="https://github-profile-trophy.vercel.app/?username=sho-87&rank=SECRET,SSS,SS,S,AAA,AA,A&theme=flat&margin-w=5&margin-h=4&no-frame=true&row=2&column=3" alt="sho-87" height="170"/>
-
-### Machine learning / deep learning
-
-<a href="https://github.com/sho-87/webcam-eye-tracker">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sho-87&repo=webcam-eye-tracker&theme=swift&hide_border=True" width="49%"/>
-</a> <a href="https://github.com/sho-87/python-machine-learning">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sho-87&repo=python-machine-learning&theme=swift&hide_border=True" width="49%"/>
-</a>
-
-### Applications and tools
-
-<a href="https://github.com/sho-87/cognitive-battery">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sho-87&repo=cognitive-battery&theme=swift&hide_border=True" width="49%"/>
-</a> <a href="https://github.com/sho-87/rok-talents">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sho-87&repo=rok-talents&theme=swift&hide_border=True" width="49%"/>
-</a>
-
-### Sensor recording and analysis
-
-<a href="https://github.com/sho-87/sensormotion">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sho-87&repo=sensormotion&theme=swift&hide_border=True" width="49%"/>
-</a> <a href="https://github.com/sho-87/sensor-record">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sho-87&repo=sensor-record&theme=swift&hide_border=True" width="49%"/>
-</a>
-
-### Datasets
-
-<a href="https://github.com/sho-87/rok-data">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sho-87&repo=rok-data&theme=swift&hide_border=True" width="49%"/>
-</a> <a href="https://github.com/sho-87/overwatch-ranked-data">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sho-87&repo=overwatch-ranked-data&theme=swift&hide_border=True" width="49%"/>
-</a>
