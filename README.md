@@ -1,6 +1,6 @@
 <img src="images/training_plots.png" width="49%" align="center"/><img src="images/scatter.png" width="49%" align="center"/>
 
-<h1 align="center">Hi there, I'm Simon <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+<h1 align="center">Hi there, I'm Simon!</h1>
 <p align="center">
   <a href="https://www.linkedin.com/in/simon-ho/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
