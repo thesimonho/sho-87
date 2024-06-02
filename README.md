@@ -5,7 +5,8 @@
   <a href="https://www.linkedin.com/in/simon-ho/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
 
-I'm a data scientist and researcher. I mainly code in Python, but turn to R and SPSS for statistics. There's also some JavaScript, Java, and C# here and there.
+🌞 By day, I'm an ML Engineer, working on modelling and deployment infrastructure.\
+🌚 By night, I make random things for fun.
 
 Some things I enjoy working on/with:
 
@@ -13,7 +14,6 @@ Some things I enjoy working on/with:
 * Data exploration and visualization
 * Statistics
 * Machine learning
-* Docker
 
 ## 🔗 Links
 
@@ -35,19 +35,27 @@ Some things I enjoy working on/with:
 ## 🛠 Technologies
 
 ### Languages
+
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=pandas&logoColor=4500b5)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=fc6f03)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![Go](https://img.shields.io/badge/-Go-000?&logo=Go)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=typescript)
+![GraphQL](https://img.shields.io/badge/-GraphQL-000?&logo=graphql)
 
 ### ML / DL
+
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-000?&logo=scikit-learn)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-000?&logo=OpenCV)
 
-### Pipelines
+### Infrastructure
+
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=amazonwebservices)
+![Terraform](https://img.shields.io/badge/-Terraform-000?&logo=terraform)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Kafka](https://img.shields.io/badge/-Kafka-000?&logo=ApacheKafka)
+
+### Databases
+
+![DynamoDB](https://img.shields.io/badge/-DynamoDB-000?&logo=amazondynamodb)
+![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=sqlite)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql)
