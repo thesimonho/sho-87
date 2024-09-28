@@ -25,11 +25,11 @@ Some things I enjoy working on/with:
 
 ## ✍️ Recent Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Webcam Eye Tracker: Eye Tracking Video Games](https://www.simonho.ca/machine-learning/webcam-eye-tracker-video-games/)
-- [Webcam Eye Tracker: Deep Learning with PyTorch](https://www.simonho.ca/machine-learning/webcam-eye-tracker-deep-learning-with-pytorch/)
-- [Webcam Eye Tracker: Data Collection of Screen Coordinates](https://www.simonho.ca/machine-learning/webcam-eye-tracker-data-collection/)
-- [Webcam Eye Tracker: Webcam Features and Face Detection](https://www.simonho.ca/machine-learning/webcam-eye-tracker-face-detection/)
-- [Webcam Eye Tracker: An End-to-end Deep Learning Project](https://www.simonho.ca/machine-learning/webcam-eye-tracker-overview/)
+- [Webcam Eye Tracker: Eye tracking in video games](https://www.simonho.ca/posts/webcam-video-games)
+- [Webcam Eye Tracker: Deep Learning with PyTorch](https://www.simonho.ca/posts/webcam-pytorch-model)
+- [Webcam Eye Tracker: Data collection of screen coordinates](https://www.simonho.ca/posts/webcam-data-collection)
+- [Webcam Eye Tracker: Webcam features and face detection](https://www.simonho.ca/posts/webcam-face-detection)
+- [Webcam Eye Tracker: An end-to-end deep learning project](https://www.simonho.ca/posts/webcam-deep-learning)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🛠 Technologies
